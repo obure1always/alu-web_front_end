@@ -1,0 +1,10 @@
+/* Grid section */
+.row {
+    display: flex;
+}
+
+[class*='col-'] {
+    /* Remove float: left */
+}
+
+/* Remove row::after declaration */ 
